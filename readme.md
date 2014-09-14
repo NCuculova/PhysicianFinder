@@ -24,5 +24,5 @@
 
 ## Database diagram
 
-[Database diagram](http://i.imgur.com/vYggZQI.png)
+![Database diagram](http://i.imgur.com/vYggZQI.png)
 
