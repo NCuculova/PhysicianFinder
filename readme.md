@@ -22,3 +22,7 @@
 * jdbc.username=root
 * jdbc.password=admin
 
+## Database diagram
+
+[Imgur](http://i.imgur.com/vYggZQI)
+
